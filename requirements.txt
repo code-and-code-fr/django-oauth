@@ -54,7 +54,7 @@ tomlkit==0.5.5
 transifex-client==0.13.6
 typed-ast==1.4.0
 Unidecode==1.1.1
-urllib3==1.23
+urllib3==1.24.2
 virtualenv==16.6.1
 virtualenv-clone==0.5.3
 webencodings==0.5.1
